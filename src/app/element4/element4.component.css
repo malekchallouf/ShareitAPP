@@ -1,0 +1,17 @@
+
+.post{
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+
+}
+.content {
+    text-align: center;
+}
+
+.post img {
+    height: 150px;
+    width: 150px; /* Set the height of the image */
+}
+
+
